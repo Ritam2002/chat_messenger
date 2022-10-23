@@ -42,7 +42,7 @@ class _ChatScreenState extends State<ChatScreen> {
         title: Text(
           'MyChat',
           style: TextStyle(
-            color: Colors.white,
+            color: Colors.white10,
           ),
         ),
       ),
