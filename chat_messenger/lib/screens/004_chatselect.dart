@@ -1,7 +1,6 @@
 import 'package:chat_messenger/utility/components.dart';
 import 'package:chat_messenger/utility/constants.dart';
 import 'package:flutter/material.dart';
-import 'dart:math';
 
 class SelectChat extends StatefulWidget {
   const SelectChat({Key? key}) : super(key: key);
